@@ -127,6 +127,6 @@
 
 ## 🤝 Let's Connect
 
-I'm always happy to talk about AI, embedded systems and security. Reach out on [LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN) or by [email](mailto:YOUR-EMAIL).
+I'm always happy to talk about AI, embedded systems and security. Reach out on [LinkedIn](https://www.linkedin.com/in/mzaintariq967/) or by [email](mailto:zaintariq967@gmail.com).
 
 <p align="center"><i>⭐ If you like any of my projects, a star means a lot!</i></p>
