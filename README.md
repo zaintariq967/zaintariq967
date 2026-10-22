@@ -13,7 +13,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mzaintariq967/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:YOUR-EMAIL"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="mailto:zaintariq967@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://YOUR-PORTFOLIO-URL"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"></a>
 </p>
 
@@ -88,14 +88,14 @@
 ### 🤖 AI, Machine Learning and Computer Vision
 | Project | What it does | Tech |
 |---|---|---|
-| **[RAG Knowledge Chatbot](https://github.com/YOUR-USERNAME/REPO)** | Retrieval-Augmented Generation chatbot over a structured knowledge base with a responsive web UI | GPT-OSS-120B, Groq, LangChain, FAISS, Tailwind |
-| **[AI Chat-Driven Object Detection](https://github.com/YOUR-USERNAME/REPO)** | Ask questions in plain language about objects detected in video | YOLOv8, OpenCV, Flask, spaCy |
-| **[Skin Cancer Classification](https://github.com/YOUR-USERNAME/REPO)** | Benign vs. malignant lesion classifier on HAM10000 (**90.49% accuracy, 0.95 AUC-ROC**) | ResNet50, TensorFlow |
-| **[Solar Panel Defect Detection](https://github.com/YOUR-USERNAME/REPO)** | Defect classification and severity estimation on the ELPV dataset | VGG16, ResNet50 |
-| **[IoT Network Anomaly Detection](https://github.com/YOUR-USERNAME/REPO)** | Anomaly detection on CICIoT2023 with an interactive dashboard | Isolation Forest, XGBoost, Streamlit |
-| **[PilgrimAI Analytics](https://github.com/YOUR-USERNAME/REPO)** | Predictive platform on 25+ years of pilgrimage data (R² = 0.8173) | Gradient Boosting, Streamlit |
-| **[Edge CV Pipeline](https://github.com/YOUR-USERNAME/REPO)** | Real-time lane/object detection on Raspberry Pi 4 | OpenCV, TensorFlow Lite, Picamera2 |
-| **[Email Spam Detection](https://github.com/YOUR-USERNAME/REPO)** | NLP spam classifier with **95% F1-score** and a Gradio UI | TF-IDF, Gradio |
+| **[RAG Knowledge Chatbot](https://github.com/zaintariq967/AI-powered-Corvit-Systems-chatbot)** | Retrieval-Augmented Generation chatbot over a structured knowledge base with a responsive web UI | GPT-OSS-120B, Groq, LangChain, FAISS, Tailwind |
+| **[AI Chat-Driven Object Detection](https://github.com/zaintariq967/AI-Chat-Driven-Object-Detection-Analysis-Assistant)** | Ask questions in plain language about objects detected in video | YOLOv8, OpenCV, Flask, spaCy |
+| **[Skin Cancer Classification](https://github.com/zaintariq967/Skin-Cancer-Classification)** | Benign vs. malignant lesion classifier on HAM10000 (**90.49% accuracy, 0.95 AUC-ROC**) | ResNet50, TensorFlow |
+| **[Solar Panel Defect Detection](https://github.com/zaintariq967/Solar-Panel-Defect-Detection--And-Severity-Estimation-using-CNN)** | Defect classification and severity estimation on the ELPV dataset | VGG16, ResNet50 |
+| **[IoT Network Anomaly Detection](https://github.com/zaintariq967/AI-Powered-Network-Anomaly-Detection)** | Anomaly detection on CICIoT2023 with an interactive dashboard | Isolation Forest, XGBoost, Streamlit |
+| **[PilgrimAI Analytics](https://github.com/zaintariq967/PilgrimAI-Islamic-Pilgrimage-Analytics)** | Predictive platform on 25+ years of pilgrimage data (R² = 0.8173) | Gradient Boosting, Streamlit |
+| **[Edge CV Pipeline](https://github.com/zaintariq967/Vision-Based-Autonomous-Perception-System)** | Real-time lane/object detection on Raspberry Pi 4 | OpenCV, TensorFlow Lite, Picamera2 |
+| **[Email Spam Detection](https://github.com/zaintariq967/Intelligent-Email-Spam-Detection-Using-Machine-Learning-and-Natural-Language-Processing)** | NLP spam classifier with **95% F1-score** and a Gradio UI | TF-IDF, Gradio |
 
 ### 🔌 Hardware, Embedded and FPGA
 | Project | What it does | Tech |
@@ -107,7 +107,7 @@
 | **[SAP-1 Computer](https://github.com/YOUR-USERNAME/REPO)** | Von Neumann architecture with custom instruction set | Logisim |
 
 ### 🔐 Software, Networking and Security
-- **[Multi-Threaded TCP Chat Server](https://github.com/YOUR-USERNAME/REPO)**: concurrent chat server in C with pthreads, mutexes and sockets
+- **[Multi-Threaded TCP Chat Server](https://github.com/zaintariq967/Multi-Threaded-TCP-Chat-Server)**: concurrent chat server in C with pthreads, mutexes and sockets
 - **[Multi-Branch Network Infrastructure](https://github.com/YOUR-USERNAME/REPO)**: VLAN, DHCP, DNS, WLAN and RIP in Cisco Packet Tracer
 
 ### 📱 Mobile
