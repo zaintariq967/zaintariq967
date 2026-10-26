@@ -15,12 +15,6 @@
   <img src="assets/status.svg" alt="Status: open to work as AI/ML Engineer (fresher). Skin lesion classifier 90.49% accuracy, 0.95 AUC-ROC. Spam detection 95% F1. FYDP 2nd place." width="900">
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fzaintariq967&query=%24.public_repos&label=public%20repos&style=flat-square&color=2f81f7" alt="Public repos">
-  <img src="https://img.shields.io/github/followers/zaintariq967?style=flat-square&label=followers&color=8957e5" alt="Followers">
-  <img src="https://img.shields.io/github/last-commit/zaintariq967/Skin-Cancer-Classification?style=flat-square&label=last%20commit&color=3fb950" alt="Last commit">
-</p>
-
 ---
 
 ## Selected Work
