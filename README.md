@@ -15,12 +15,6 @@
   <img src="assets/status.svg" alt="Status: open to work as AI/ML Engineer (fresher). Skin lesion classifier 90.49% accuracy, 0.95 AUC-ROC. Spam detection 95% F1. FYDP 2nd place." width="900">
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fzaintariq967&query=%24.public_repos&label=public%20repos&style=flat-square&color=2f81f7" alt="Public repos">
-  <img src="https://img.shields.io/github/followers/zaintariq967?style=flat-square&label=followers&color=8957e5" alt="Followers">
-  <img src="https://img.shields.io/github/last-commit/zaintariq967/Skin-Cancer-Classification?style=flat-square&label=last%20commit&color=3fb950" alt="Last commit">
-</p>
-
 ---
 
 ## Selected Work
@@ -35,9 +29,9 @@ Click a project to see what it does, the result, and the links.
 Classifies skin lesions as benign or malignant on the HAM10000 dataset using ResNet50.
 
 - **Result:** 90.49% accuracy, 0.95 AUC-ROC
-- **Built with:** TensorFlow, Keras, ResNet50
+- **Built with:** PyTorch, Torchvision, ResNet50, Streamlit
 
-[Code](https://github.com/zaintariq967/Skin-Cancer-Classification) &nbsp;|&nbsp; [Live demo](https://YOUR-DEMO-URL)
+[Code](https://github.com/zaintariq967/Skin-Cancer-Classification) &nbsp;|&nbsp; [Live demo](https://skin-cancer-classification-zain.streamlit.app/)
 
 </details>
 
@@ -88,10 +82,10 @@ Runs a perception pipeline on a Raspberry Pi 4, detecting lanes and objects from
 
 <br>
 
-An autonomous shopping cart with automated billing and a Flutter companion app.
+A smart shopping cart that follows the shopper, avoids obstacles, and bills items in real time through a Flutter app over Bluetooth.
 
-- **Result:** 2nd position, Final Year Design Project (FYDP)
-- **Built with:** ESP32, HX711 load cell, ultrasonic and IR sensors, Flutter
+- **Result:** 2nd position, Final Year Design Project (FYDP), built with a team of three
+- **Built with:** Arduino Uno/Nano, HC-SR04 ultrasonic and IR sensors, load cell with HX711, HC-05/HC-06 Bluetooth, Flutter
 
 [Code](https://github.com/YOUR-USERNAME/REPO) &nbsp;|&nbsp; [Demo video](https://YOUR-DEMO-URL)
 
@@ -122,7 +116,7 @@ An autonomous shopping cart with automated billing and a Flutter companion app.
 
 ## Stack
 
-Python, TensorFlow, Keras, OpenCV, YOLOv8, scikit-learn, LangChain, FAISS, Hugging Face, Flask, Streamlit, Gradio, Raspberry Pi, ESP32, C/C++.
+Python, PyTorch, TensorFlow, Keras, OpenCV, YOLOv8, scikit-learn, LangChain, FAISS, Hugging Face, Flask, Streamlit, Gradio, Raspberry Pi, Arduino, C/C++.
 
 ## Open to
 
